@@ -20,4 +20,4 @@ non-tail-recursive version? Why, or why not, and what is the complexity
 (worst-case $\Theta$)? Add your answer, including your reasoning, to this
 markdown file.
 
-Since tail recursion just manages how recursive calls are organized, in order to optimize the way the call stack is used; the asymptotic complexity does not change because the ammount of work/time to do the work remains the same, and the worst case remains $\Theta$. 
+Since tail recursion just manages how recursive calls are organized, and optimizes the way the call stack is used; the asymptotic complexity does not change because the ammount of work/time to do the work remains the same, and the worst case remains $\Theta$. 
