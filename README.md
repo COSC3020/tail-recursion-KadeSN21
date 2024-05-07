@@ -21,3 +21,5 @@ non-tail-recursive version? Why, or why not, and what is the complexity
 markdown file.
 
 Since tail recursion just manages how recursive calls are organized, and optimizes the way the call stack is used; the asymptotic complexity does not change because the amount of work/time to do the work remains the same, and the worst case remains $\Theta(n)$ because with every increase of n, the number of recursive calls increases linearly. 
+
+Help: ChatGPT and Stackoverflow.com
