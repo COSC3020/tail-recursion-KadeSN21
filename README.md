@@ -22,4 +22,10 @@ markdown file.
 
 Since tail recursion just manages how recursive calls are organized, and optimizes the way the call stack is used; the asymptotic complexity does not change because the amount of work/time to do the work remains the same, and the worst case remains $\Theta(n)$ because with every increase of n, the number of recursive calls increases linearly. 
 
-Help: ChatGPT and Stackoverflow.com
+Help: ChatGPT helped me understand the basis of what I was testing for, which I then used to implement unit testing.
+      Stack Overflow: Helped further my understanding on the time complexity surrounding this activity.
+
+“I certify that I have listed all sources used to complete this exercise, including the use
+of any Large Language Models. All of the work is my own, except where stated
+otherwise. I am aware that plagiarism carries severe penalties and that if plagiarism is
+suspected, charges may be filed against me without prior notice.”
